@@ -1,5 +1,7 @@
 ts + node 做命令行翻译工具，发布npm上
 
+git commit --amend --author="Maricaya <915270549@qq.com>"
+
 1. 加密方式
 2. 命令行使用
 3. 发布 npm
